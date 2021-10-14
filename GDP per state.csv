@@ -1,0 +1,485 @@
+GeoFIPS;GeoName;Description;2019;2020
+" ""00000""";United States;Real GDP (millions of chained 2012 dollars)  ;19091662;18426076
+" ""00000""";United States;Chain-type quantity indexes for real GDP;117.872;113.762
+" ""00000""";United States;Current-dollar GDP (millions of current dollars);21433226;20936558
+" ""00000""";United States;Compensation (millions of dollars);11444495;(NA)
+" ""00000""";United States;Gross operating surplus (millions of dollars);8571191;(NA)
+" ""00000""";United States;Taxes on production and imports (TOPI) less subsides (millions of dollars);1417539;(NA)
+" ""00000""";United States; Taxes on production and imports (TOPI) (millions of dollars);1491428;(NA)
+" ""00000""";United States; Subsidies (millions of dollars);-73889;(NA)
+" ""01000""";Alabama;Real GDP (millions of chained 2012 dollars)  ;200829.4;195474.7
+" ""01000""";Alabama;Chain-type quantity indexes for real GDP;107.652;104.782
+" ""01000""";Alabama;Current-dollar GDP (millions of current dollars);228142.6;224870.6
+" ""01000""";Alabama;Compensation (millions of dollars);126892.8;(NA)
+" ""01000""";Alabama;Gross operating surplus (millions of dollars);88069.6;(NA)
+" ""01000""";Alabama;Taxes on production and imports (TOPI) less subsides (millions of dollars);13180.2;(NA)
+" ""01000""";Alabama; Taxes on production and imports (TOPI) (millions of dollars);13774;(NA)
+" ""01000""";Alabama; Subsidies (millions of dollars);-593.7;(NA)
+" ""02000""";Alaska;Real GDP (millions of chained 2012 dollars)  ;53255.2;50645.5
+" ""02000""";Alaska;Chain-type quantity indexes for real GDP;92.269;87.747
+" ""02000""";Alaska;Current-dollar GDP (millions of current dollars);54385.6;50246.7
+" ""02000""";Alaska;Compensation (millions of dollars);29231.9;(NA)
+" ""02000""";Alaska;Gross operating surplus (millions of dollars);20791.5;(NA)
+" ""02000""";Alaska;Taxes on production and imports (TOPI) less subsides (millions of dollars);4362.2;(NA)
+" ""02000""";Alaska; Taxes on production and imports (TOPI) (millions of dollars);4476.1;(NA)
+" ""02000""";Alaska; Subsidies (millions of dollars);-113.9;(NA)
+" ""04000""";Arizona;Real GDP (millions of chained 2012 dollars)  ;323597.6;320658.3
+" ""04000""";Arizona;Chain-type quantity indexes for real GDP;120.715;119.618
+" ""04000""";Arizona;Current-dollar GDP (millions of current dollars);370119.1;372461
+" ""04000""";Arizona;Compensation (millions of dollars);203864;(NA)
+" ""04000""";Arizona;Gross operating surplus (millions of dollars);142217.3;(NA)
+" ""04000""";Arizona;Taxes on production and imports (TOPI) less subsides (millions of dollars);24037.7;(NA)
+" ""04000""";Arizona; Taxes on production and imports (TOPI) (millions of dollars);24847.6;(NA)
+" ""04000""";Arizona; Subsidies (millions of dollars);-809.8;(NA)
+" ""05000""";Arkansas;Real GDP (millions of chained 2012 dollars)  ;117447.1;114370.3
+" ""05000""";Arkansas;Chain-type quantity indexes for real GDP;109.031;106.175
+" ""05000""";Arkansas;Current-dollar GDP (millions of current dollars);130954.1;129073.9
+" ""05000""";Arkansas;Compensation (millions of dollars);73354.2;(NA)
+" ""05000""";Arkansas;Gross operating surplus (millions of dollars);48087.1;(NA)
+" ""05000""";Arkansas;Taxes on production and imports (TOPI) less subsides (millions of dollars);9512.8;(NA)
+" ""05000""";Arkansas; Taxes on production and imports (TOPI) (millions of dollars);10736.5;(NA)
+" ""05000""";Arkansas; Subsidies (millions of dollars);-1223.6;(NA)
+" ""06000""";California;Real GDP (millions of chained 2012 dollars)  ;2800505.4;2722838.6
+" ""06000""";California;Chain-type quantity indexes for real GDP;130.615;126.993
+" ""06000""";California;Current-dollar GDP (millions of current dollars);3132800.6;3091871.5
+" ""06000""";California;Compensation (millions of dollars);1616261.1;(NA)
+" ""06000""";California;Gross operating surplus (millions of dollars);1326813.4;(NA)
+" ""06000""";California;Taxes on production and imports (TOPI) less subsides (millions of dollars);189726.1;(NA)
+" ""06000""";California; Taxes on production and imports (TOPI) (millions of dollars);198836.6;(NA)
+" ""06000""";California; Subsidies (millions of dollars);-9110.5;(NA)
+" ""08000""";Colorado;Real GDP (millions of chained 2012 dollars)  ;356280.2;351067.8
+" ""08000""";Colorado;Chain-type quantity indexes for real GDP;130.222;128.317
+" ""08000""";Colorado;Current-dollar GDP (millions of current dollars);392986;390098.7
+" ""08000""";Colorado;Compensation (millions of dollars);218867.5;(NA)
+" ""08000""";Colorado;Gross operating surplus (millions of dollars);150803.8;(NA)
+" ""08000""";Colorado;Taxes on production and imports (TOPI) less subsides (millions of dollars);23314.8;(NA)
+" ""08000""";Colorado; Taxes on production and imports (TOPI) (millions of dollars);24528.5;(NA)
+" ""08000""";Colorado; Subsidies (millions of dollars);-1213.8;(NA)
+" ""09000""";Connecticut;Real GDP (millions of chained 2012 dollars)  ;251329.8;241053
+" ""09000""";Connecticut;Chain-type quantity indexes for real GDP;102.956;98.746
+" ""09000""";Connecticut;Current-dollar GDP (millions of current dollars);287822.2;280900.3
+" ""09000""";Connecticut;Compensation (millions of dollars);147217.1;(NA)
+" ""09000""";Connecticut;Gross operating surplus (millions of dollars);120225.3;(NA)
+" ""09000""";Connecticut;Taxes on production and imports (TOPI) less subsides (millions of dollars);20379.8;(NA)
+" ""09000""";Connecticut; Taxes on production and imports (TOPI) (millions of dollars);21002.8;(NA)
+" ""09000""";Connecticut; Subsidies (millions of dollars);-623;(NA)
+" ""10000""";Delaware;Real GDP (millions of chained 2012 dollars)  ;64319.3;61833.7
+" ""10000""";Delaware;Chain-type quantity indexes for real GDP;103.964;99.947
+" ""10000""";Delaware;Current-dollar GDP (millions of current dollars);77082.4;75512.5
+" ""10000""";Delaware;Compensation (millions of dollars);34583.2;(NA)
+" ""10000""";Delaware;Gross operating surplus (millions of dollars);38119.1;(NA)
+" ""10000""";Delaware;Taxes on production and imports (TOPI) less subsides (millions of dollars);4380;(NA)
+" ""10000""";Delaware; Taxes on production and imports (TOPI) (millions of dollars);4574.1;(NA)
+" ""10000""";Delaware; Subsidies (millions of dollars);-194;(NA)
+" ""11000""";District of Columbia;Real GDP (millions of chained 2012 dollars)  ;123929.3;122113.6
+" ""11000""";District of Columbia;Chain-type quantity indexes for real GDP;110.052;108.439
+" ""11000""";District of Columbia;Current-dollar GDP (millions of current dollars);143389.3;143532.7
+" ""11000""";District of Columbia;Compensation (millions of dollars);98919.8;(NA)
+" ""11000""";District of Columbia;Gross operating surplus (millions of dollars);39798.2;(NA)
+" ""11000""";District of Columbia;Taxes on production and imports (TOPI) less subsides (millions of dollars);4671.3;(NA)
+" ""11000""";District of Columbia; Taxes on production and imports (TOPI) (millions of dollars);5568.3;(NA)
+" ""11000""";District of Columbia; Subsidies (millions of dollars);-897;(NA)
+" ""12000""";Florida;Real GDP (millions of chained 2012 dollars)  ;963255.9;935674.3
+" ""12000""";Florida;Chain-type quantity indexes for real GDP;125.306;121.718
+" ""12000""";Florida;Current-dollar GDP (millions of current dollars);1106500.1;1095888.2
+" ""12000""";Florida;Compensation (millions of dollars);603712.2;(NA)
+" ""12000""";Florida;Gross operating surplus (millions of dollars);411739.3;(NA)
+" ""12000""";Florida;Taxes on production and imports (TOPI) less subsides (millions of dollars);91048.6;(NA)
+" ""12000""";Florida; Taxes on production and imports (TOPI) (millions of dollars);93604.5;(NA)
+" ""12000""";Florida; Subsidies (millions of dollars);-2555.9;(NA)
+" ""13000""";Georgia;Real GDP (millions of chained 2012 dollars)  ;547422.7;533566.8
+" ""13000""";Georgia;Chain-type quantity indexes for real GDP;123.414;120.29
+" ""13000""";Georgia;Current-dollar GDP (millions of current dollars);625713.6;619240
+" ""13000""";Georgia;Compensation (millions of dollars);330034;(NA)
+" ""13000""";Georgia;Gross operating surplus (millions of dollars);259737.5;(NA)
+" ""13000""";Georgia;Taxes on production and imports (TOPI) less subsides (millions of dollars);35942.1;(NA)
+" ""13000""";Georgia; Taxes on production and imports (TOPI) (millions of dollars);37660.9;(NA)
+" ""13000""";Georgia; Subsidies (millions of dollars);-1718.8;(NA)
+" ""15000""";Hawaii;Real GDP (millions of chained 2012 dollars)  ;82471.4;75862.7
+" ""15000""";Hawaii;Chain-type quantity indexes for real GDP;111.937;102.967
+" ""15000""";Hawaii;Current-dollar GDP (millions of current dollars);95744.3;89856.2
+" ""15000""";Hawaii;Compensation (millions of dollars);50768.8;(NA)
+" ""15000""";Hawaii;Gross operating surplus (millions of dollars);36290.3;(NA)
+" ""15000""";Hawaii;Taxes on production and imports (TOPI) less subsides (millions of dollars);8685.3;(NA)
+" ""15000""";Hawaii; Taxes on production and imports (TOPI) (millions of dollars);8948.3;(NA)
+" ""15000""";Hawaii; Subsidies (millions of dollars);-263;(NA)
+" ""16000""";Idaho;Real GDP (millions of chained 2012 dollars)  ;74937.1;74080.6
+" ""16000""";Idaho;Chain-type quantity indexes for real GDP;129.694;128.211
+" ""16000""";Idaho;Current-dollar GDP (millions of current dollars);83665.5;84032.2
+" ""16000""";Idaho;Compensation (millions of dollars);44472.5;(NA)
+" ""16000""";Idaho;Gross operating surplus (millions of dollars);34315.1;(NA)
+" ""16000""";Idaho;Taxes on production and imports (TOPI) less subsides (millions of dollars);4877.8;(NA)
+" ""16000""";Idaho; Taxes on production and imports (TOPI) (millions of dollars);5215.7;(NA)
+" ""16000""";Idaho; Subsidies (millions of dollars);-337.9;(NA)
+" ""17000""";Illinois;Real GDP (millions of chained 2012 dollars)  ;773135.5;742278.3
+" ""17000""";Illinois;Chain-type quantity indexes for real GDP;107.249;102.968
+" ""17000""";Illinois;Current-dollar GDP (millions of current dollars);885583;863516.7
+" ""17000""";Illinois;Compensation (millions of dollars);485215.1;(NA)
+" ""17000""";Illinois;Gross operating surplus (millions of dollars);333116;(NA)
+" ""17000""";Illinois;Taxes on production and imports (TOPI) less subsides (millions of dollars);67251.9;(NA)
+" ""17000""";Illinois; Taxes on production and imports (TOPI) (millions of dollars);71394.5;(NA)
+" ""17000""";Illinois; Subsidies (millions of dollars);-4142.6;(NA)
+" ""18000""";Indiana;Real GDP (millions of chained 2012 dollars)  ;337636.1;327337.2
+" ""18000""";Indiana;Chain-type quantity indexes for real GDP;113.371;109.913
+" ""18000""";Indiana;Current-dollar GDP (millions of current dollars);379684.1;372636.7
+" ""18000""";Indiana;Compensation (millions of dollars);198976;(NA)
+" ""18000""";Indiana;Gross operating surplus (millions of dollars);159789.5;(NA)
+" ""18000""";Indiana;Taxes on production and imports (TOPI) less subsides (millions of dollars);20918.6;(NA)
+" ""18000""";Indiana; Taxes on production and imports (TOPI) (millions of dollars);22460.9;(NA)
+" ""18000""";Indiana; Subsidies (millions of dollars);-1542.2;(NA)
+" ""19000""";Iowa;Real GDP (millions of chained 2012 dollars)  ;173515.4;169529.9
+" ""19000""";Iowa;Chain-type quantity indexes for real GDP;109.932;107.407
+" ""19000""";Iowa;Current-dollar GDP (millions of current dollars);194658.1;192710.2
+" ""19000""";Iowa;Compensation (millions of dollars);98629.9;(NA)
+" ""19000""";Iowa;Gross operating surplus (millions of dollars);85508;(NA)
+" ""19000""";Iowa;Taxes on production and imports (TOPI) less subsides (millions of dollars);10520.2;(NA)
+" ""19000""";Iowa; Taxes on production and imports (TOPI) (millions of dollars);13086.4;(NA)
+" ""19000""";Iowa; Subsidies (millions of dollars);-2566.2;(NA)
+" ""20000""";Kansas;Real GDP (millions of chained 2012 dollars)  ;160059.3;155307.8
+" ""20000""";Kansas;Chain-type quantity indexes for real GDP;113.707;110.332
+" ""20000""";Kansas;Current-dollar GDP (millions of current dollars);176493.1;173298.3
+" ""20000""";Kansas;Compensation (millions of dollars);91855;(NA)
+" ""20000""";Kansas;Gross operating surplus (millions of dollars);73918.1;(NA)
+" ""20000""";Kansas;Taxes on production and imports (TOPI) less subsides (millions of dollars);10720;(NA)
+" ""20000""";Kansas; Taxes on production and imports (TOPI) (millions of dollars);12721.6;(NA)
+" ""20000""";Kansas; Subsidies (millions of dollars);-2001.6;(NA)
+" ""21000""";Kentucky;Real GDP (millions of chained 2012 dollars)  ;190811.5;183804.1
+" ""21000""";Kentucky;Chain-type quantity indexes for real GDP;108.217;104.243
+" ""21000""";Kentucky;Current-dollar GDP (millions of current dollars);215398.9;210024.2
+" ""21000""";Kentucky;Compensation (millions of dollars);120751.8;(NA)
+" ""21000""";Kentucky;Gross operating surplus (millions of dollars);79117.4;(NA)
+" ""21000""";Kentucky;Taxes on production and imports (TOPI) less subsides (millions of dollars);15529.7;(NA)
+" ""21000""";Kentucky; Taxes on production and imports (TOPI) (millions of dollars);16252.2;(NA)
+" ""21000""";Kentucky; Subsidies (millions of dollars);-722.5;(NA)
+" ""22000""";Louisiana;Real GDP (millions of chained 2012 dollars)  ;239967.2;226810.2
+" ""22000""";Louisiana;Chain-type quantity indexes for real GDP;102.778;97.143
+" ""22000""";Louisiana;Current-dollar GDP (millions of current dollars);256918.5;241990.8
+" ""22000""";Louisiana;Compensation (millions of dollars);128837.8;(NA)
+" ""22000""";Louisiana;Gross operating surplus (millions of dollars);108114;(NA)
+" ""22000""";Louisiana;Taxes on production and imports (TOPI) less subsides (millions of dollars);19966.6;(NA)
+" ""22000""";Louisiana; Taxes on production and imports (TOPI) (millions of dollars);20764.1;(NA)
+" ""22000""";Louisiana; Subsidies (millions of dollars);-797.5;(NA)
+" ""23000""";Maine;Real GDP (millions of chained 2012 dollars)  ;58793.3;56363.9
+" ""23000""";Maine;Chain-type quantity indexes for real GDP;111.211;106.615
+" ""23000""";Maine;Current-dollar GDP (millions of current dollars);67717.1;66196
+" ""23000""";Maine;Compensation (millions of dollars);39335.6;(NA)
+" ""23000""";Maine;Gross operating surplus (millions of dollars);22430;(NA)
+" ""23000""";Maine;Taxes on production and imports (TOPI) less subsides (millions of dollars);5951.4;(NA)
+" ""23000""";Maine; Taxes on production and imports (TOPI) (millions of dollars);6123.1;(NA)
+" ""23000""";Maine; Subsidies (millions of dollars);-171.6;(NA)
+" ""24000""";Maryland;Real GDP (millions of chained 2012 dollars)  ;374039.3;364169.3
+" ""24000""";Maryland;Chain-type quantity indexes for real GDP;111.802;108.852
+" ""24000""";Maryland;Current-dollar GDP (millions of current dollars);426747.4;422726.4
+" ""24000""";Maryland;Compensation (millions of dollars);230761.7;(NA)
+" ""24000""";Maryland;Gross operating surplus (millions of dollars);169490.6;(NA)
+" ""24000""";Maryland;Taxes on production and imports (TOPI) less subsides (millions of dollars);26495.2;(NA)
+" ""24000""";Maryland; Taxes on production and imports (TOPI) (millions of dollars);27710.2;(NA)
+" ""24000""";Maryland; Subsidies (millions of dollars);-1215;(NA)
+" ""25000""";Massachusetts;Real GDP (millions of chained 2012 dollars)  ;519961.6;500237.2
+" ""25000""";Massachusetts;Chain-type quantity indexes for real GDP;116.982;112.545
+" ""25000""";Massachusetts;Current-dollar GDP (millions of current dollars);596593.1;584039
+" ""25000""";Massachusetts;Compensation (millions of dollars);342411.9;(NA)
+" ""25000""";Massachusetts;Gross operating surplus (millions of dollars);224949.6;(NA)
+" ""25000""";Massachusetts;Taxes on production and imports (TOPI) less subsides (millions of dollars);29231.5;(NA)
+" ""25000""";Massachusetts; Taxes on production and imports (TOPI) (millions of dollars);31033.7;(NA)
+" ""25000""";Massachusetts; Subsidies (millions of dollars);-1802.2;(NA)
+" ""26000""";Michigan;Real GDP (millions of chained 2012 dollars)  ;471648.1;446249.4
+" ""26000""";Michigan;Chain-type quantity indexes for real GDP;112.634;106.569
+" ""26000""";Michigan;Current-dollar GDP (millions of current dollars);536888.3;515928.3
+" ""26000""";Michigan;Compensation (millions of dollars);304444.9;(NA)
+" ""26000""";Michigan;Gross operating surplus (millions of dollars);200012.8;(NA)
+" ""26000""";Michigan;Taxes on production and imports (TOPI) less subsides (millions of dollars);32430.6;(NA)
+" ""26000""";Michigan; Taxes on production and imports (TOPI) (millions of dollars);33746;(NA)
+" ""26000""";Michigan; Subsidies (millions of dollars);-1315.4;(NA)
+" ""27000""";Minnesota;Real GDP (millions of chained 2012 dollars)  ;341041.4;328472.5
+" ""27000""";Minnesota;Chain-type quantity indexes for real GDP;115.111;110.868
+" ""27000""";Minnesota;Current-dollar GDP (millions of current dollars);383777;374351.8
+" ""27000""";Minnesota;Compensation (millions of dollars);218062.5;(NA)
+" ""27000""";Minnesota;Gross operating surplus (millions of dollars);140906.7;(NA)
+" ""27000""";Minnesota;Taxes on production and imports (TOPI) less subsides (millions of dollars);24807.8;(NA)
+" ""27000""";Minnesota; Taxes on production and imports (TOPI) (millions of dollars);27141.2;(NA)
+" ""27000""";Minnesota; Subsidies (millions of dollars);-2333.4;(NA)
+" ""28000""";Mississippi;Real GDP (millions of chained 2012 dollars)  ;102656.4;99757.4
+" ""28000""";Mississippi;Chain-type quantity indexes for real GDP;103.052;100.142
+" ""28000""";Mississippi;Current-dollar GDP (millions of current dollars);115971.3;114200.6
+" ""28000""";Mississippi;Compensation (millions of dollars);63663.7;(NA)
+" ""28000""";Mississippi;Gross operating surplus (millions of dollars);42708.4;(NA)
+" ""28000""";Mississippi;Taxes on production and imports (TOPI) less subsides (millions of dollars);9599.2;(NA)
+" ""28000""";Mississippi; Taxes on production and imports (TOPI) (millions of dollars);10432.9;(NA)
+" ""28000""";Mississippi; Subsidies (millions of dollars);-833.6;(NA)
+" ""29000""";Missouri;Real GDP (millions of chained 2012 dollars)  ;287659.3;277353.5
+" ""29000""";Missouri;Chain-type quantity indexes for real GDP;106.991;103.158
+" ""29000""";Missouri;Current-dollar GDP (millions of current dollars);328400.6;321708.8
+" ""29000""";Missouri;Compensation (millions of dollars);191678.4;(NA)
+" ""29000""";Missouri;Gross operating surplus (millions of dollars);118476.6;(NA)
+" ""29000""";Missouri;Taxes on production and imports (TOPI) less subsides (millions of dollars);18245.6;(NA)
+" ""29000""";Missouri; Taxes on production and imports (TOPI) (millions of dollars);20119.1;(NA)
+" ""29000""";Missouri; Subsidies (millions of dollars);-1873.4;(NA)
+" ""30000""";Montana;Real GDP (millions of chained 2012 dollars)  ;47916.3;46486.3
+" ""30000""";Montana;Chain-type quantity indexes for real GDP;113.974;110.572
+" ""30000""";Montana;Current-dollar GDP (millions of current dollars);52934.6;51488.7
+" ""30000""";Montana;Compensation (millions of dollars);28213.3;(NA)
+" ""30000""";Montana;Gross operating surplus (millions of dollars);21879.3;(NA)
+" ""30000""";Montana;Taxes on production and imports (TOPI) less subsides (millions of dollars);2842;(NA)
+" ""30000""";Montana; Taxes on production and imports (TOPI) (millions of dollars);3345.8;(NA)
+" ""30000""";Montana; Subsidies (millions of dollars);-503.8;(NA)
+" ""31000""";Nebraska;Real GDP (millions of chained 2012 dollars)  ;117395.2;114957.3
+" ""31000""";Nebraska;Chain-type quantity indexes for real GDP;114.414;112.038
+" ""31000""";Nebraska;Current-dollar GDP (millions of current dollars);130011.8;128808.7
+" ""31000""";Nebraska;Compensation (millions of dollars);65488.6;(NA)
+" ""31000""";Nebraska;Gross operating surplus (millions of dollars);57418.3;(NA)
+" ""31000""";Nebraska;Taxes on production and imports (TOPI) less subsides (millions of dollars);7104.8;(NA)
+" ""31000""";Nebraska; Taxes on production and imports (TOPI) (millions of dollars);8654.1;(NA)
+" ""31000""";Nebraska; Subsidies (millions of dollars);-1549.2;(NA)
+" ""32000""";Nevada;Real GDP (millions of chained 2012 dollars)  ;153728.6;146667.9
+" ""32000""";Nevada;Chain-type quantity indexes for real GDP;120.299;114.773
+" ""32000""";Nevada;Current-dollar GDP (millions of current dollars);178199.4;172597.6
+" ""32000""";Nevada;Compensation (millions of dollars);94124;(NA)
+" ""32000""";Nevada;Gross operating surplus (millions of dollars);67045.1;(NA)
+" ""32000""";Nevada;Taxes on production and imports (TOPI) less subsides (millions of dollars);17030.4;(NA)
+" ""32000""";Nevada; Taxes on production and imports (TOPI) (millions of dollars);17416.9;(NA)
+" ""32000""";Nevada; Subsidies (millions of dollars);-386.6;(NA)
+" ""33000""";New Hampshire;Real GDP (millions of chained 2012 dollars)  ;77240.3;73604
+" ""33000""";New Hampshire;Chain-type quantity indexes for real GDP;114.201;108.824
+" ""33000""";New Hampshire;Current-dollar GDP (millions of current dollars);87634.1;85109.3
+" ""33000""";New Hampshire;Compensation (millions of dollars);49267.9;(NA)
+" ""33000""";New Hampshire;Gross operating surplus (millions of dollars);31709.9;(NA)
+" ""33000""";New Hampshire;Taxes on production and imports (TOPI) less subsides (millions of dollars);6656.4;(NA)
+" ""33000""";New Hampshire; Taxes on production and imports (TOPI) (millions of dollars);6802.5;(NA)
+" ""33000""";New Hampshire; Subsidies (millions of dollars);-146.1;(NA)
+" ""34000""";New Jersey;Real GDP (millions of chained 2012 dollars)  ;556731;534133.8
+" ""34000""";New Jersey;Chain-type quantity indexes for real GDP;107.152;102.803
+" ""34000""";New Jersey;Current-dollar GDP (millions of current dollars);634783.6;619061.1
+" ""34000""";New Jersey;Compensation (millions of dollars);349218.8;(NA)
+" ""34000""";New Jersey;Gross operating surplus (millions of dollars);225998.3;(NA)
+" ""34000""";New Jersey;Taxes on production and imports (TOPI) less subsides (millions of dollars);59566.6;(NA)
+" ""34000""";New Jersey; Taxes on production and imports (TOPI) (millions of dollars);61192.3;(NA)
+" ""34000""";New Jersey; Subsidies (millions of dollars);-1625.7;(NA)
+" ""35000""";New Mexico;Real GDP (millions of chained 2012 dollars)  ;98765.7;95730.8
+" ""35000""";New Mexico;Chain-type quantity indexes for real GDP;112.689;109.226
+" ""35000""";New Mexico;Current-dollar GDP (millions of current dollars);105143.4;100310.1
+" ""35000""";New Mexico;Compensation (millions of dollars);53207.9;(NA)
+" ""35000""";New Mexico;Gross operating surplus (millions of dollars);44009;(NA)
+" ""35000""";New Mexico;Taxes on production and imports (TOPI) less subsides (millions of dollars);7926.4;(NA)
+" ""35000""";New Mexico; Taxes on production and imports (TOPI) (millions of dollars);8256;(NA)
+" ""35000""";New Mexico; Subsidies (millions of dollars);-329.6;(NA)
+" ""36000""";New York;Real GDP (millions of chained 2012 dollars)  ;1490678.5;1402411.5
+" ""36000""";New York;Chain-type quantity indexes for real GDP;112.64;105.97
+" ""36000""";New York;Current-dollar GDP (millions of current dollars);1772260.7;1699044.7
+" ""36000""";New York;Compensation (millions of dollars);909997.1;(NA)
+" ""36000""";New York;Gross operating surplus (millions of dollars);743118.2;(NA)
+" ""36000""";New York;Taxes on production and imports (TOPI) less subsides (millions of dollars);119145.4;(NA)
+" ""36000""";New York; Taxes on production and imports (TOPI) (millions of dollars);126322.1;(NA)
+" ""36000""";New York; Subsidies (millions of dollars);-7176.7;(NA)
+" ""37000""";North Carolina;Real GDP (millions of chained 2012 dollars)  ;511539.9;498739.5
+" ""37000""";North Carolina;Chain-type quantity indexes for real GDP;116.381;113.469
+" ""37000""";North Carolina;Current-dollar GDP (millions of current dollars);591600.9;586136.2
+" ""37000""";North Carolina;Compensation (millions of dollars);316423.2;(NA)
+" ""37000""";North Carolina;Gross operating surplus (millions of dollars);240086.8;(NA)
+" ""37000""";North Carolina;Taxes on production and imports (TOPI) less subsides (millions of dollars);35090.8;(NA)
+" ""37000""";North Carolina; Taxes on production and imports (TOPI) (millions of dollars);36573.9;(NA)
+" ""37000""";North Carolina; Subsidies (millions of dollars);-1483;(NA)
+" ""38000""";North Dakota;Real GDP (millions of chained 2012 dollars)  ;53930.2;52021.1
+" ""38000""";North Dakota;Chain-type quantity indexes for real GDP;104.466;100.768
+" ""38000""";North Dakota;Current-dollar GDP (millions of current dollars);57180.9;54032.9
+" ""38000""";North Dakota;Compensation (millions of dollars);29998.6;(NA)
+" ""38000""";North Dakota;Gross operating surplus (millions of dollars);23567.3;(NA)
+" ""38000""";North Dakota;Taxes on production and imports (TOPI) less subsides (millions of dollars);3615.1;(NA)
+" ""38000""";North Dakota; Taxes on production and imports (TOPI) (millions of dollars);5297.4;(NA)
+" ""38000""";North Dakota; Subsidies (millions of dollars);-1682.4;(NA)
+" ""39000""";Ohio;Real GDP (millions of chained 2012 dollars)  ;615474.4;591119.7
+" ""39000""";Ohio;Chain-type quantity indexes for real GDP;113.791;109.288
+" ""39000""";Ohio;Current-dollar GDP (millions of current dollars);695361.6;675037.3
+" ""39000""";Ohio;Compensation (millions of dollars);374612.3;(NA)
+" ""39000""";Ohio;Gross operating surplus (millions of dollars);274630.5;(NA)
+" ""39000""";Ohio;Taxes on production and imports (TOPI) less subsides (millions of dollars);46118.8;(NA)
+" ""39000""";Ohio; Taxes on production and imports (TOPI) (millions of dollars);48049.7;(NA)
+" ""39000""";Ohio; Subsidies (millions of dollars);-1930.9;(NA)
+" ""40000""";Oklahoma;Real GDP (millions of chained 2012 dollars)  ;197900.4;185884.1
+" ""40000""";Oklahoma;Chain-type quantity indexes for real GDP;114.236;107.299
+" ""40000""";Oklahoma;Current-dollar GDP (millions of current dollars);202036.1;186581.4
+" ""40000""";Oklahoma;Compensation (millions of dollars);105500.6;(NA)
+" ""40000""";Oklahoma;Gross operating surplus (millions of dollars);84178.2;(NA)
+" ""40000""";Oklahoma;Taxes on production and imports (TOPI) less subsides (millions of dollars);12357.3;(NA)
+" ""40000""";Oklahoma; Taxes on production and imports (TOPI) (millions of dollars);13163.4;(NA)
+" ""40000""";Oklahoma; Subsidies (millions of dollars);-806.1;(NA)
+" ""41000""";Oregon;Real GDP (millions of chained 2012 dollars)  ;225336.8;218968.4
+" ""41000""";Oregon;Chain-type quantity indexes for real GDP;129.186;125.535
+" ""41000""";Oregon;Current-dollar GDP (millions of current dollars);253623.2;250458.5
+" ""41000""";Oregon;Compensation (millions of dollars);140057.9;(NA)
+" ""41000""";Oregon;Gross operating surplus (millions of dollars);101569.5;(NA)
+" ""41000""";Oregon;Taxes on production and imports (TOPI) less subsides (millions of dollars);11995.7;(NA)
+" ""41000""";Oregon; Taxes on production and imports (TOPI) (millions of dollars);12786.7;(NA)
+" ""41000""";Oregon; Subsidies (millions of dollars);-791;(NA)
+" ""42000""";Pennsylvania;Real GDP (millions of chained 2012 dollars)  ;726165.9;694195.5
+" ""42000""";Pennsylvania;Chain-type quantity indexes for real GDP;113.346;108.356
+" ""42000""";Pennsylvania;Current-dollar GDP (millions of current dollars);808737.5;780176.1
+" ""42000""";Pennsylvania;Compensation (millions of dollars);441883.9;(NA)
+" ""42000""";Pennsylvania;Gross operating surplus (millions of dollars);314351.6;(NA)
+" ""42000""";Pennsylvania;Taxes on production and imports (TOPI) less subsides (millions of dollars);52502;(NA)
+" ""42000""";Pennsylvania; Taxes on production and imports (TOPI) (millions of dollars);54581.5;(NA)
+" ""42000""";Pennsylvania; Subsidies (millions of dollars);-2079.5;(NA)
+" ""44000""";Rhode Island;Real GDP (millions of chained 2012 dollars)  ;53668;51234.2
+" ""44000""";Rhode Island;Chain-type quantity indexes for real GDP;103.993;99.277
+" ""44000""";Rhode Island;Current-dollar GDP (millions of current dollars);61883.8;60224.7
+" ""44000""";Rhode Island;Compensation (millions of dollars);35530.8;(NA)
+" ""44000""";Rhode Island;Gross operating surplus (millions of dollars);21177.4;(NA)
+" ""44000""";Rhode Island;Taxes on production and imports (TOPI) less subsides (millions of dollars);5175.6;(NA)
+" ""44000""";Rhode Island; Taxes on production and imports (TOPI) (millions of dollars);5349.3;(NA)
+" ""44000""";Rhode Island; Subsidies (millions of dollars);-173.7;(NA)
+" ""45000""";South Carolina;Real GDP (millions of chained 2012 dollars)  ;214933.7;206217.7
+" ""45000""";South Carolina;Chain-type quantity indexes for real GDP;122.589;117.618
+" ""45000""";South Carolina;Current-dollar GDP (millions of current dollars);247543.8;241688.7
+" ""45000""";South Carolina;Compensation (millions of dollars);136193.7;(NA)
+" ""45000""";South Carolina;Gross operating surplus (millions of dollars);93143;(NA)
+" ""45000""";South Carolina;Taxes on production and imports (TOPI) less subsides (millions of dollars);18207.1;(NA)
+" ""45000""";South Carolina; Taxes on production and imports (TOPI) (millions of dollars);18766.4;(NA)
+" ""45000""";South Carolina; Subsidies (millions of dollars);-559.4;(NA)
+" ""46000""";South Dakota;Real GDP (millions of chained 2012 dollars)  ;47559.7;46761.6
+" ""46000""";South Dakota;Chain-type quantity indexes for real GDP;109.205;107.373
+" ""46000""";South Dakota;Current-dollar GDP (millions of current dollars);54940.9;54852.1
+" ""46000""";South Dakota;Compensation (millions of dollars);25814.4;(NA)
+" ""46000""";South Dakota;Gross operating surplus (millions of dollars);26191.6;(NA)
+" ""46000""";South Dakota;Taxes on production and imports (TOPI) less subsides (millions of dollars);2934.9;(NA)
+" ""46000""";South Dakota; Taxes on production and imports (TOPI) (millions of dollars);4357.4;(NA)
+" ""46000""";South Dakota; Subsidies (millions of dollars);-1422.5;(NA)
+" ""47000""";Tennessee;Real GDP (millions of chained 2012 dollars)  ;328406.3;312436.7
+" ""47000""";Tennessee;Chain-type quantity indexes for real GDP;115.847;110.214
+" ""47000""";Tennessee;Current-dollar GDP (millions of current dollars);376582.4;364485.9
+" ""47000""";Tennessee;Compensation (millions of dollars);199086;(NA)
+" ""47000""";Tennessee;Gross operating surplus (millions of dollars);150884.5;(NA)
+" ""47000""";Tennessee;Taxes on production and imports (TOPI) less subsides (millions of dollars);26611.9;(NA)
+" ""47000""";Tennessee; Taxes on production and imports (TOPI) (millions of dollars);27551.5;(NA)
+" ""47000""";Tennessee; Subsidies (millions of dollars);-939.6;(NA)
+" ""48000""";Texas;Real GDP (millions of chained 2012 dollars)  ;1764357.2;1703074.3
+" ""48000""";Texas;Chain-type quantity indexes for real GDP;125.092;120.747
+" ""48000""";Texas;Current-dollar GDP (millions of current dollars);1843802.7;1759734.4
+" ""48000""";Texas;Compensation (millions of dollars);951719.7;(NA)
+" ""48000""";Texas;Gross operating surplus (millions of dollars);762538.1;(NA)
+" ""48000""";Texas;Taxes on production and imports (TOPI) less subsides (millions of dollars);129544.9;(NA)
+" ""48000""";Texas; Taxes on production and imports (TOPI) (millions of dollars);134018.2;(NA)
+" ""48000""";Texas; Subsidies (millions of dollars);-4473.3;(NA)
+" ""49000""";Utah;Real GDP (millions of chained 2012 dollars)  ;168792.7;168621.5
+" ""49000""";Utah;Chain-type quantity indexes for real GDP;131.087;130.954
+" ""49000""";Utah;Current-dollar GDP (millions of current dollars);192519.2;194985.8
+" ""49000""";Utah;Compensation (millions of dollars);103198.2;(NA)
+" ""49000""";Utah;Gross operating surplus (millions of dollars);78826.4;(NA)
+" ""49000""";Utah;Taxes on production and imports (TOPI) less subsides (millions of dollars);10494.6;(NA)
+" ""49000""";Utah; Taxes on production and imports (TOPI) (millions of dollars);10921.7;(NA)
+" ""49000""";Utah; Subsidies (millions of dollars);-427;(NA)
+" ""50000""";Vermont;Real GDP (millions of chained 2012 dollars)  ;29806.2;28196.4
+" ""50000""";Vermont;Chain-type quantity indexes for real GDP;103.158;97.587
+" ""50000""";Vermont;Current-dollar GDP (millions of current dollars);34013.4;32796.7
+" ""50000""";Vermont;Compensation (millions of dollars);19867.1;(NA)
+" ""50000""";Vermont;Gross operating surplus (millions of dollars);10729.1;(NA)
+" ""50000""";Vermont;Taxes on production and imports (TOPI) less subsides (millions of dollars);3417.2;(NA)
+" ""50000""";Vermont; Taxes on production and imports (TOPI) (millions of dollars);3511.7;(NA)
+" ""50000""";Vermont; Subsidies (millions of dollars);-94.4;(NA)
+" ""51000""";Virginia;Real GDP (millions of chained 2012 dollars)  ;489168.4;476949.7
+" ""51000""";Virginia;Chain-type quantity indexes for real GDP;109.896;107.151
+" ""51000""";Virginia;Current-dollar GDP (millions of current dollars);556905.2;551760.3
+" ""51000""";Virginia;Compensation (millions of dollars);321082.9;(NA)
+" ""51000""";Virginia;Gross operating surplus (millions of dollars);201264.2;(NA)
+" ""51000""";Virginia;Taxes on production and imports (TOPI) less subsides (millions of dollars);34558.2;(NA)
+" ""51000""";Virginia; Taxes on production and imports (TOPI) (millions of dollars);35795.6;(NA)
+" ""51000""";Virginia; Subsidies (millions of dollars);-1237.4;(NA)
+" ""53000""";Washington;Real GDP (millions of chained 2012 dollars)  ;548686.7;544632.4
+" ""53000""";Washington;Chain-type quantity indexes for real GDP;136.958;135.946
+" ""53000""";Washington;Current-dollar GDP (millions of current dollars);612996.5;618704.9
+" ""53000""";Washington;Compensation (millions of dollars);314985.9;(NA)
+" ""53000""";Washington;Gross operating surplus (millions of dollars);252355;(NA)
+" ""53000""";Washington;Taxes on production and imports (TOPI) less subsides (millions of dollars);45655.7;(NA)
+" ""53000""";Washington; Taxes on production and imports (TOPI) (millions of dollars);47400.5;(NA)
+" ""53000""";Washington; Subsidies (millions of dollars);-1744.8;(NA)
+" ""54000""";West Virginia;Real GDP (millions of chained 2012 dollars)  ;72340.4;68352.9
+" ""54000""";West Virginia;Chain-type quantity indexes for real GDP;104.334;98.583
+" ""54000""";West Virginia;Current-dollar GDP (millions of current dollars);78863.9;73709.2
+" ""54000""";West Virginia;Compensation (millions of dollars);42273.5;(NA)
+" ""54000""";West Virginia;Gross operating surplus (millions of dollars);30193.4;(NA)
+" ""54000""";West Virginia;Taxes on production and imports (TOPI) less subsides (millions of dollars);6396.9;(NA)
+" ""54000""";West Virginia; Taxes on production and imports (TOPI) (millions of dollars);6517.3;(NA)
+" ""54000""";West Virginia; Subsidies (millions of dollars);-120.4;(NA)
+" ""55000""";Wisconsin;Real GDP (millions of chained 2012 dollars)  ;308044.7;294185.4
+" ""55000""";Wisconsin;Chain-type quantity indexes for real GDP;112.204;107.156
+" ""55000""";Wisconsin;Current-dollar GDP (millions of current dollars);349416.5;338678.4
+" ""55000""";Wisconsin;Compensation (millions of dollars);196509.2;(NA)
+" ""55000""";Wisconsin;Gross operating surplus (millions of dollars);129815.4;(NA)
+" ""55000""";Wisconsin;Taxes on production and imports (TOPI) less subsides (millions of dollars);23091.9;(NA)
+" ""55000""";Wisconsin; Taxes on production and imports (TOPI) (millions of dollars);24232.4;(NA)
+" ""55000""";Wisconsin; Subsidies (millions of dollars);-1140.5;(NA)
+" ""56000""";Wyoming;Real GDP (millions of chained 2012 dollars)  ;39214;36474.6
+" ""56000""";Wyoming;Chain-type quantity indexes for real GDP;102.019;94.893
+" ""56000""";Wyoming;Current-dollar GDP (millions of current dollars);40420.1;36241.5
+" ""56000""";Wyoming;Compensation (millions of dollars);19296.3;(NA)
+" ""56000""";Wyoming;Gross operating surplus (millions of dollars);17410.8;(NA)
+" ""56000""";Wyoming;Taxes on production and imports (TOPI) less subsides (millions of dollars);3713;(NA)
+" ""56000""";Wyoming; Taxes on production and imports (TOPI) (millions of dollars);3806.1;(NA)
+" ""56000""";Wyoming; Subsidies (millions of dollars);-93.1;(NA)
+" ""91000""";New England;Real GDP (millions of chained 2012 dollars)  ;990777.5;950674
+" ""91000""";New England;Chain-type quantity indexes for real GDP;111.374;106.866
+" ""91000""";New England;Current-dollar GDP (millions of current dollars);1135663.7;1109265.9
+" ""91000""";New England;Compensation (millions of dollars);633630.4;(NA)
+" ""91000""";New England;Gross operating surplus (millions of dollars);431221.3;(NA)
+" ""91000""";New England;Taxes on production and imports (TOPI) less subsides (millions of dollars);70812;(NA)
+" ""91000""";New England; Taxes on production and imports (TOPI) (millions of dollars);73823.1;(NA)
+" ""91000""";New England; Subsidies (millions of dollars);-3011.1;(NA)
+" ""92000""";Mideast;Real GDP (millions of chained 2012 dollars)  ;3336480.6;3178652.8
+" ""92000""";Mideast;Chain-type quantity indexes for real GDP;111.489;106.215
+" ""92000""";Mideast;Current-dollar GDP (millions of current dollars);3863001;3740053.4
+" ""92000""";Mideast;Compensation (millions of dollars);2065364.5;(NA)
+" ""92000""";Mideast;Gross operating surplus (millions of dollars);1530876;(NA)
+" ""92000""";Mideast;Taxes on production and imports (TOPI) less subsides (millions of dollars);266760.5;(NA)
+" ""92000""";Mideast; Taxes on production and imports (TOPI) (millions of dollars);279948.4;(NA)
+" ""92000""";Mideast; Subsidies (millions of dollars);-13187.9;(NA)
+" ""93000""";Great Lakes;Real GDP (millions of chained 2012 dollars)  ;2505871.8;2401025.4
+" ""93000""";Great Lakes;Chain-type quantity indexes for real GDP;111.231;106.577
+" ""93000""";Great Lakes;Current-dollar GDP (millions of current dollars);2846933.4;2765797.3
+" ""93000""";Great Lakes;Compensation (millions of dollars);1559757.4;(NA)
+" ""93000""";Great Lakes;Gross operating surplus (millions of dollars);1097364.2;(NA)
+" ""93000""";Great Lakes;Taxes on production and imports (TOPI) less subsides (millions of dollars);189811.8;(NA)
+" ""93000""";Great Lakes; Taxes on production and imports (TOPI) (millions of dollars);199883.5;(NA)
+" ""93000""";Great Lakes; Subsidies (millions of dollars);-10071.6;(NA)
+" ""94000""";Plains;Real GDP (millions of chained 2012 dollars)  ;1181310.4;1144542.3
+" ""94000""";Plains;Chain-type quantity indexes for real GDP;111.285;107.821
+" ""94000""";Plains;Current-dollar GDP (millions of current dollars);1325462.4;1299762.8
+" ""94000""";Plains;Compensation (millions of dollars);721527.4;(NA)
+" ""94000""";Plains;Gross operating surplus (millions of dollars);525986.6;(NA)
+" ""94000""";Plains;Taxes on production and imports (TOPI) less subsides (millions of dollars);77948.4;(NA)
+" ""94000""";Plains; Taxes on production and imports (TOPI) (millions of dollars);91377.1;(NA)
+" ""94000""";Plains; Subsidies (millions of dollars);-13428.7;(NA)
+" ""95000""";Southeast;Real GDP (millions of chained 2012 dollars)  ;3981051.8;3854787
+" ""95000""";Southeast;Chain-type quantity indexes for real GDP;116.107;112.424
+" ""95000""";Southeast;Current-dollar GDP (millions of current dollars);4531095.2;4453068.4
+" ""95000""";Southeast;Compensation (millions of dollars);2462305.7;(NA)
+" ""95000""";Southeast;Gross operating surplus (millions of dollars);1753145.3;(NA)
+" ""95000""";Southeast;Taxes on production and imports (TOPI) less subsides (millions of dollars);315644.2;(NA)
+" ""95000""";Southeast; Taxes on production and imports (TOPI) (millions of dollars);328429.8;(NA)
+" ""95000""";Southeast; Subsidies (millions of dollars);-12785.6;(NA)
+" ""96000""";Southwest;Real GDP (millions of chained 2012 dollars)  ;2386060.9;2307729.8
+" ""96000""";Southwest;Chain-type quantity indexes for real GDP;123.031;118.992
+" ""96000""";Southwest;Current-dollar GDP (millions of current dollars);2521101.2;2419086.8
+" ""96000""";Southwest;Compensation (millions of dollars);1314292.2;(NA)
+" ""96000""";Southwest;Gross operating surplus (millions of dollars);1032942.6;(NA)
+" ""96000""";Southwest;Taxes on production and imports (TOPI) less subsides (millions of dollars);173866.4;(NA)
+" ""96000""";Southwest; Taxes on production and imports (TOPI) (millions of dollars);180285.2;(NA)
+" ""96000""";Southwest; Subsidies (millions of dollars);-6418.8;(NA)
+" ""97000""";Rocky Mountain;Real GDP (millions of chained 2012 dollars)  ;687941.6;677826.4
+" ""97000""";Rocky Mountain;Chain-type quantity indexes for real GDP;127.251;125.38
+" ""97000""";Rocky Mountain;Current-dollar GDP (millions of current dollars);762525.5;756847
+" ""97000""";Rocky Mountain;Compensation (millions of dollars);414047.9;(NA)
+" ""97000""";Rocky Mountain;Gross operating surplus (millions of dollars);303235.4;(NA)
+" ""97000""";Rocky Mountain;Taxes on production and imports (TOPI) less subsides (millions of dollars);45242.2;(NA)
+" ""97000""";Rocky Mountain; Taxes on production and imports (TOPI) (millions of dollars);47817.8;(NA)
+" ""97000""";Rocky Mountain; Subsidies (millions of dollars);-2575.6;(NA)
+" ""98000""";Far West;Real GDP (millions of chained 2012 dollars)  ;3864650.3;3760102.5
+" ""98000""";Far West;Chain-type quantity indexes for real GDP;129.759;126.249
+" ""98000""";Far West;Current-dollar GDP (millions of current dollars);4327749.6;4273735.3
+" ""98000""";Far West;Compensation (millions of dollars);2245429.5;(NA)
+" ""98000""";Far West;Gross operating surplus (millions of dollars);1804864.7;(NA)
+" ""98000""";Far West;Taxes on production and imports (TOPI) less subsides (millions of dollars);277455.4;(NA)
+" ""98000""";Far West; Taxes on production and imports (TOPI) (millions of dollars);289865.1;(NA)
+" ""98000""";Far West; Subsidies (millions of dollars);-12409.7;(NA)
+Note: See the included footnote file.;;;;
+SAGDP1: Gross Domestic Product (GDP) summary; annual by state ;;;
+Last updated: March 26; 2021-- new statistics for 2020.;;;
+Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts;;;;
